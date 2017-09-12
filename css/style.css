@@ -1,0 +1,31 @@
+* {margin: 0; padding: 0; border: none;}
+
+body {
+  line-height: 2;
+  background-color: #000;
+  color: white;
+}
+span {
+  color: #30d72d;
+}
+h1 {
+  color: red;
+}
+h3.red {
+  color: cyan;
+}
+h3 {
+  color: magenta;
+}
+.container {
+    padding: 50px;
+    margin: 0 auto;
+}
+button {
+    width: 150px;
+    height: 30px;
+    background-color: cyan;
+    color: red;
+    font-size: 20px;
+    font-weight: bold;
+}
